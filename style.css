@@ -1,0 +1,30 @@
+h1{ color:#36E3EF;
+}
+p{
+    color:#36E3EF;
+}
+
+
+
+th{
+    font-weight:800;
+    background-color: #2695A6;
+    color           : #ffffff;
+    font-family:Helvetica,sans-serif;
+}
+    
+
+table{
+     font-family : Helvetica, sans-serif;
+}
+table {
+    border-collapse: collapse;
+    border-width: solid;
+    border-color:#2695A6;
+}
+body{
+    font-weight     :bolder;
+    color           : #ffffff;
+
+}
+
